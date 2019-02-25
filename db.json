@@ -1,82 +1,122 @@
-{
-  "mahasiswa":
-  [{
+{"mahasiswa":
+ [{
   "id": 1,
-  "gender": "Male",
-  "name": "Kris Mather"
+  "name": "Bancroft Gailor",
+  "gender": "Male"
 }, {
   "id": 2,
-  "gender": "Female",
-} {
+  "name": "Dionis Texton",
+  "gender": "Female"
+}, {
   "id": 3,
-  "gender": "Male",
-  "name": "Osborne Beste"
+  "name": "Willi Tabard",
+  "gender": "Male"
 }, {
   "id": 4,
-  "gender": "Female",
-  "name": "Rasia Treppas"
+  "name": "Eleonore Woolam",
+  "gender": "Female"
 }, {
   "id": 5,
-  "gender": "Female",
-  "name": "Winonah Etock"
+  "name": "Vite Brandoni",
+  "gender": "Male"
 }, {
   "id": 6,
-  "gender": "Male",
-  "name": "Etienne Newitt"
+  "name": "Kym Kennermann",
+  "gender": "Female"
 }, {
   "id": 7,
-  "gender": "Female",
-  "name": "Marla Tantrum"
+  "name": "Linet Brennan",
+  "gender": "Female"
 }, {
   "id": 8,
-  "gender": "Male",
-  "name": "Gardner Biers"
+  "name": "Rod Leate",
+  "gender": "Male"
 }, {
   "id": 9,
-  "gender": "Male",
-  "name": "Pedro Flavelle"
+  "name": "Nisse Newlands",
+  "gender": "Female"
 }, {
   "id": 10,
-  "gender": "Male",
-  "name": "Gino Whickman"
+  "name": "Elsa Sunshine",
+  "gender": "Female"
 }, {
   "id": 11,
-  "gender": "Female",
-  "name": "Roobbie Phipard-Shears"
+  "name": "Helga Bunt",
+  "gender": "Female"
 }, {
   "id": 12,
-  "gender": "Female",
-  "name": "Fredelia Hagwood"
+  "name": "Maynard Tabourel",
+  "gender": "Male"
 }, {
   "id": 13,
-  "gender": "Male",
-  "name": "Fairfax Foskin"
+  "name": "Kellyann Blissett",
+  "gender": "Female"
 }, {
   "id": 14,
-  "gender": "Female",
-  "name": "Shoshana Rickman"
+  "name": "Judie Selby",
+  "gender": "Female"
 }, {
   "id": 15,
-  "gender": "Male",
-  "name": "Whitman Manns"
+  "name": "Kassie Bacher",
+  "gender": "Female"
 }, {
   "id": 16,
-  "gender": "Female",
-  "name": "Mattie Haggeth"
+  "name": "Kylie Gascard",
+  "gender": "Male"
 }, {
   "id": 17,
-  "gender": "Female",
-  "name": "Bria Swinburn"
+  "name": "Orin Longson",
+  "gender": "Male"
 }, {
   "id": 18,
-  "gender": "Male",
-  "name": "Claire Mottinelli"
+  "name": "Indira Bullene",
+  "gender": "Female"
 }, {
   "id": 19,
-  "gender": "Female",
-  "name": "Ulrikaumeko Freyn"
+  "name": "Brianna Wahner",
+  "gender": "Female"
 }, {
   "id": 20,
-  "gender": "Male",
-  "name": "Bogey Gifford"
+  "name": "Greggory Brisset",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Pearce Lachaize",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Kati L'Homme",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Lianne Kusick",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Eydie Gurden",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Timmie Snawden",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Bartholomew Habbon",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Nickie Rounsivall",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Alberta Sonner",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Eleanor Loveland",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Rowe Knutsen",
+  "gender": "Female"
 }]}
